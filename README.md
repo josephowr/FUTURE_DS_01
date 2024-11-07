@@ -5,7 +5,7 @@ Performing data cleaning and exploratory data analysis (EDA) on a Titanic datase
 
 ![Figure 4](https://github.com/user-attachments/assets/114916f6-f143-4836-bbdb-a5a9bd3572e6)
 
- This figure illustrates that females were the gender with the highest number of Survival.![Figure 1](https://github.com/user-attachments/assets/9163e822-375b-437c-be61-cb878dc588be)
+ This figure illustrates that females had the highest number of Survival and males had the lowest number or survival.![Figure 1](https://github.com/user-attachments/assets/9163e822-375b-437c-be61-cb878dc588be)
 
 Passengers who were in the fisrt class had the highest number of survival compared to other classes.![Figure 2](https://github.com/user-attachments/assets/8ddcd393-1201-4f9c-8271-68fe446e6e51)
 
